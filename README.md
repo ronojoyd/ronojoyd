@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Ronojoy.
+# Hi there 👋 I'm Ronojoy.
 
-
+I’m a junior at Georgia Tech studying Computer Science, specializing in Devices and Artificial Intelligence (AI). 
 
 <!--
 **ronojoyd/ronojoyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
