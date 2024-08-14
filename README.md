@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ronojoy.
+# Hey there 👋 I'm Ronojoy.
 
 I’m a junior at Georgia Tech studying Computer Science, specializing in Devices and Artificial Intelligence (AI). Currently, I’m on track to graduate by December 2025. 
 
