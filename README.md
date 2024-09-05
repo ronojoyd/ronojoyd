@@ -3,7 +3,9 @@
 I’m a junior at Georgia Tech studying Computer Science with a focus on Devices and Artificial Intelligence (AI), and I’m set to graduate by December 2025. Outside my academic and technical work, I’m a history buff who loves reading just about any historical book, and baking banana bread 🍞 is my favorite way to unwind.
 
 <u>**Work Experience**<u>
-![Drawing](https://github.com/user-attachments/assets/8bf88823-70a0-4379-bcf8-80241e961cbf)
+![Drawing (2)](https://github.com/user-attachments/assets/9e44306b-f9ba-435c-a890-96aceb76ce11)
+
+
 
 During my time at General Motors, I had the chance to dive into a variety of projects, from full-stack development to learning something entirely new: CI/CD pipelines. One of the highlights was developing a game application inspired by Pokémon Go. We put a lot of thought into features like streaks and daily points to keep employees engaged, and it was rewarding to see it catch on. But the work didn’t stop there.
 
