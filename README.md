@@ -16,11 +16,19 @@ Whether I was building a game or streamlining a manufacturing process, I found m
 
 <u>**Personal Projects**<u>
 
-Over the past summer, I’ve been diving deeper into Node.js/Express backend development through courses on **The Odin Project** while simultaneously working on my own web projects. I've also been learning **Cloud Fundamentals** as I prepare to earn my AWS Cloud Practitioner certification. In addition, I've dedicated time to learning how to work with **Arduinos**, guided by some amazing community resources on YouTube.
+Over the past summer, I’ve been diving deeper into Node.js/Express backend development through courses on [**The Odin Project**](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) while simultaneously working on my own web projects. I've also been learning **Cloud Fundamentals** as I prepare to earn my AWS Cloud Practitioner certification. In addition, I've dedicated time to learning how to work with [**Arduinos**](https://github.com/ms-iot), guided by some amazing community resources on YouTube.
 
-One of my favorite personal projects I've been developing is **a productivity app**. Although I've tried many different “to-do list” apps, I sometimes struggle with time management—spending too much time on certain tasks while neglecting others, and even working past my bedtime and messing up my sleep schedule. To solve this, I’ve been creating a productivity app that shows a live timer counting down to bedtime (so I can mentally gauge how much time I have left to work), a structured task manager to add/remove tasks and track the time spent on each, and a daily task queue to help me focus on a few key tasks each day instead of getting overwhelmed by everything on my plate. There’s much more to this app, and it’s definitely a work in progress, but I’d love to add some LLM-based features to give it more personality (literally, like Duolingo) and integrate third-party calendar apps.
+**I'm currently working on two personal projects.** The first project I’m developing is a [**Productivity App**](https://github.com/ronojoyd/productivity-app). Although I've tried many different “to-do list” apps, I sometimes struggle with time management, spending too much time on certain tasks while neglecting others, and sometimes even working past my bedtime and messing up my sleep schedule. To solve this, I’ve been creating a productivity app that shows a live timer counting down to bedtime (so I can mentally gauge how much time I have left to work), a structured task manager to add/remove tasks and track the time spent on each, and a daily task queue to help me focus on a few key tasks each day instead of getting overwhelmed by everything on my plate. There’s much more to this app, and it’s definitely a work in progress, but I’d love to add some LLM-based features to give it more personality (literally, like Duolingo) and integrate third-party calendar apps.
 
-![image](https://github.com/user-attachments/assets/9cc5144f-40cb-4f07-a07f-47429f4ade05)
+The other project is a [**Spotify Jukebox**](), born out of a simple need: making party music easier. I wanted an app that lets my friends and me set up a temporary jukebox for parties without the hassle of creating playlists or juggling multiple Spotify accounts, especially since some of my friends use Apple Music. With this app, we can manage the music using just one person’s account, making it straightforward for everyone. I worked on a similar project earlier as part of Georgia Tech's Web Dev Club, where I developed a jukebox application with a larger team using SST and AWS DynamoDB. However, this current project is a personal endeavor where I’m adding my own unique touches.
+
+_The frontend of both applications still needs significant work, even though the backends are largely functional and running smoothly on MongoDB._
+| Productivity App | Spotify Jukebox |
+| --- | --- |
+| ![Productivity App](https://github.com/user-attachments/assets/9cc5144f-40cb-4f07-a07f-47429f4ade05) | ![Spotify Jukebox](https://github.com/user-attachments/assets/2c6adde1-728d-473d-864e-af21a93b6639) |
+
+
+
 
 
 <!--
