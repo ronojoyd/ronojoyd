@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Ronojoy.
 
-I’m a junior at Georgia Tech studying Computer Science with a focus on Devices and Artificial Intelligence (AI), and I’m set to graduate by December 2025. Outside my academic and technical work, I’m a history buff who loves reading just about any historical book, and baking banana bread 🍞 is my favorite way to unwind.
+I’m a **junior at Georgia Tech** studying **Computer Science** with a focus on **Devices and Artificial Intelligence (AI)**, and I’m set to graduate by December 2025. Outside my academic and technical work, I’m a history buff who loves reading just about any historical book, and baking banana bread 🍞 is my favorite way to unwind.
 
 <u>**Work Experience**<u>
 ![Drawing (2)](https://github.com/user-attachments/assets/9e44306b-f9ba-435c-a890-96aceb76ce11)
