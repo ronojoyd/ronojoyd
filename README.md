@@ -1,6 +1,10 @@
 # Hey there 👋 I'm Ronojoy.
 
-I’m a **junior at Georgia Tech** studying **Computer Science** with a focus on **Devices and Artificial Intelligence (AI)**. Outside my academic and technical work, I’m a history buff who loves reading just about any historical book, and baking banana bread 🍞 is my favorite way to unwind.
+I’m a **junior at Georgia Tech** studying **Computer Science** with a focus on **Devices and Artificial Intelligence (AI)**. When I'm not doing schoolwork, you'll find me tinkering with my Arduinos, scouting for great dining spots with my chums around Atlanta, or reading (currently, Abundance by Ezra Klein).
+
+<u>**Life Updates**<u>
+- 🥇 [Won 1st place in Amazon Robotics challenge](https://devpost.com/software/amazon-smart-scan-robot), developing a robotic arm system for scanning boxes in Amazon warehouse bins.
+- 🔨 Currently developing an online platform for Georgia Tech students to find and share subleases (major problem on campus). More updates coming soon.
 
 <u>**Work Experience**<u>
 ![Drawing (2)](https://github.com/user-attachments/assets/9e44306b-f9ba-435c-a890-96aceb76ce11)
