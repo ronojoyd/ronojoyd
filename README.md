@@ -1,14 +1,13 @@
 # Hey there 👋 I'm Ronojoy.
 
-I’m a **junior at Georgia Tech** studying **Computer Science** with a focus on **Devices and Artificial Intelligence (AI)**. When I'm not doing schoolwork, you'll find me tinkering with my Arduinos, scouting for great dining spots with my chums around Atlanta, or reading (currently, Abundance by Ezra Klein).
+I’m a **senior at Georgia Tech** studying **Computer Science** with a focus on **Devices and Artificial Intelligence (AI)**.
 
 <u>**Life Updates**<u>
 - 🥇 [Won 1st place in Amazon Robotics challenge](https://devpost.com/software/amazon-smart-scan-robot), developing a robotic arm system for scanning boxes in Amazon warehouse bins.
 - 🔨 Currently developing an online platform for Georgia Tech students to find and share subleases (major problem on campus). More updates coming soon.
 
 <u>**Work Experience**<u>
-![Drawing (2)](https://github.com/user-attachments/assets/9e44306b-f9ba-435c-a890-96aceb76ce11)
-
+<img width="2500" height="781" alt="Drawing" src="https://github.com/user-attachments/assets/20021ea9-71b0-4851-8175-7ff6381d688d" />
 
 
 During my time at General Motors, I had the chance to dive into a variety of projects, from full-stack development to learning something entirely new: CI/CD pipelines. One of the highlights was developing a game application inspired by Pokémon Go. We put a lot of thought into features like streaks and daily points to keep employees engaged, and it was rewarding to see it catch on. But the work didn’t stop there.
