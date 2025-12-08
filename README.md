@@ -2,17 +2,16 @@
 
 I’m a **senior at Georgia Tech** (graduating in May 2026) studying **Computer Science** with a focus on **Devices and Artificial Intelligence (AI)**.
 
-<u>**Life Updates**<u>
+<u>**Recent Awards**<u>
 - 🥇 [Won 1st place in Amazon Robotics challenge](https://devpost.com/software/amazon-smart-scan-robot), developing a robotic arm system for scanning boxes in Amazon warehouse bins.
 
-<u>**Recent Work Experience**<u>
+<u>**Internship Experience**<u>
 
-<img width="1544" height="1009" alt="Untitled drawing" src="https://github.com/user-attachments/assets/98fae9f3-4524-465a-adb2-e3f0205c8812" />
+<img width="100%" height="auto" alt="Untitled drawing" src="https://github.com/user-attachments/assets/98fae9f3-4524-465a-adb2-e3f0205c8812" />
 
+<img width="100%" height="auto" alt="Drawing" src="https://github.com/user-attachments/assets/20021ea9-71b0-4851-8175-7ff6381d688d" />
 
-<!--<img width="2500" height="781" alt="Drawing" src="https://github.com/user-attachments/assets/20021ea9-71b0-4851-8175-7ff6381d688d" />
-
-During my time at General Motors, I had the chance to dive into a variety of projects, from full-stack development to learning something entirely new: CI/CD pipelines. One of the highlights was developing a game application inspired by Pokémon Go. We put a lot of thought into features like streaks and daily points to keep employees engaged, and it was rewarding to see it catch on. But the work didn’t stop there.
+<!--During my time at General Motors, I had the chance to dive into a variety of projects, from full-stack development to learning something entirely new: CI/CD pipelines. One of the highlights was developing a game application inspired by Pokémon Go. We put a lot of thought into features like streaks and daily points to keep employees engaged, and it was rewarding to see it catch on. But the work didn’t stop there.
 
 I was also tasked with developing CI/CD tools for a crucial microservice-based software application used in vehicle manufacturing. This application was a big deal: it saved GM $50 per vehicle, which really added up. Automating the deployment process was essential to avoid the headaches of manual deployments and save our team countless hours. Figuring out how to automate configurations with Python and Bash scripting was challenging, but seeing the time and effort it saved made it all worthwhile.
 
